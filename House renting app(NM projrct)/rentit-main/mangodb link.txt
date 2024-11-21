@@ -1,1 +1,0 @@
-mongodb+srv://saaikrahaanth:mrxgd8R8AbUc8M5V@houserentapp.sik9f.mongodb.net/?retryWrites=true&w=majority&appName=HouseRentApp
